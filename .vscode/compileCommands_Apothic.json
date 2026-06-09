@@ -1,0 +1,218 @@
+[
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/Apothic.Build.cs",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/Apothic.Build.cs.backup",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/Apothic.cpp",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/Apothic.cpp.bak",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/Apothic.h",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCameraManager.cpp",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCameraManager.cpp.bak",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCameraManager.h",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCharacter.cpp",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCharacter.cpp.backup",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCharacter.cpp.bak",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCharacter.h",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicCharacter.h.backup",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicGameMode.cpp",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicGameMode.cpp.bak",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicGameMode.h",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicPlayerController.cpp",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicPlayerController.cpp.bak",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/ApothicPlayerController.h",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/FractalResonanceSystem.cpp",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/FractalResonanceSystem.cpp.backup",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/FractalResonanceSystem.cpp.bak",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/FractalResonanceSystem.h",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/FractalResonanceSystem.h.backup",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/WeaponComponent.cpp",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/WeaponComponent.cpp.bak",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	},
+	{
+		"file": "/home/anthony/Documents/Unreal Projects/Apothic/Source/Apothic/WeaponComponent.h",
+		"arguments": [
+			"/mnt/storage/UE5_Engine/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/anthony/Documents/Unreal Projects/Apothic/.vscode/compileCommands_Apothic/Apothic.1.rsp"
+		],
+		"directory": "/mnt/storage/UE5_Engine/UnrealEngine/Engine/Source"
+	}
+]

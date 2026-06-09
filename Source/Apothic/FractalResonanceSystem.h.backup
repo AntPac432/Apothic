@@ -1,0 +1,32 @@
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameplayTagContainer.h"
+#include "AttributeSet.h"
+#include "AbilitySystemComponent.h"
+#include "FractalResonanceSystem.generated.h"
+
+UCLASS()
+class APOTHIC_API UFractalResonanceSystem : public UAttributeSet
+{
+    GENERATED_BODY()
+
+public:
+    UFractalResonanceSystem();
+
+    // Attributes
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Attributes")
+    FGameplayAttributeData CosmicEnergy;
+    ATTRIBUTE_ACCESSORS(UFractalResonanceSystem, CosmicEnergy)
+
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Attributes")
+    FGameplayAttributeData ResonanceLevel;
+    ATTRIBUTE_ACCESSORS(UFractalResonanceSystem, ResonanceLevel)
+
+    // Function to handle dynamic node generation based on GameplayTags
+    void GenerateDynamicNodes(const FGameplayTagContainer& ActionTags);
+
+protected:
+    // Function to calculate attribute scaling
+    void CalculateAttributeScaling();
+};

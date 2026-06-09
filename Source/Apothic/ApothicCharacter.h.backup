@@ -1,0 +1,15 @@
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameFramework/Character.h"
+#include "ApothicCharacter.generated.h"
+
+UCLASS()
+class AApothicCharacter : public ACharacter
+{
+    GENERATED_BODY()
+
+public:
+    // Constructor
+    AApothicCharacter();
+};

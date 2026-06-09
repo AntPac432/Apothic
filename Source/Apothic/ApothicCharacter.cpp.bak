@@ -1,0 +1,8 @@
+#include "ApothicCharacter.h"
+
+// Constructor
+AApothicCharacter::AApothicCharacter()
+{
+    // Set this character to call Tick() every frame.
+    PrimaryActorTick.bCanEverTick = true;
+}
